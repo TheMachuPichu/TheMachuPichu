@@ -1,7 +1,7 @@
 Hi there 👋
-I'm Matthieu, a french developer.
+I'm TheMachuPichu, a french developer.
 
 🇫🇷 French
 🎂 17 Yo
 🎓 Student in Cook
-⌨️ Currently working for @oerthyon !
+⌨️ Currently working for @Oerthyon !
